@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule   ^data$ skyukdata.php  [L]
+RewriteRule   ^assets$  skyukassets.php  [L]
